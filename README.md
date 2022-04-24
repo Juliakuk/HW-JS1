@@ -1,1 +1,2 @@
-# HW-JS1
+# Homework_JavaScript
+### Homework QA course by Vadim Ksendzov
